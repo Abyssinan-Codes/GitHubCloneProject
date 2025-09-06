@@ -1,3 +1,3 @@
 Project: GitHubCloneProject
-GREETING: original
+GREETING: Hello from feature-greeting
 Objective: Practice branching, merging, and resolving conflicts.
