@@ -1,3 +1,1 @@
-Line from MAIN branch 
-Line from FEATURE branch
-
+"Objective: Practice branching, merging, and resolving conflicts." 
