@@ -1,3 +1,3 @@
-"Objective: Practice branching, merging, and resolving conflicts." 
-"Modification in main branch." 
-"Line from MAIN branch" 
+Line from MAIN branch 
+Line from FEATURE branch
+
